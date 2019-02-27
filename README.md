@@ -13,7 +13,7 @@ EECS 339 Databases Lab 2: Portfolio Manager
 
 [SQL DML and DQL](SQL%20DML.pdf)
 
-Link to application: https://murphy.wot.eecs.northwestern.edu/~jlc229/portfolio/portfolio.pl
+Link to application: [https://murphy.wot.eecs.northwestern.edu/~jlc229/portfolio/portfolio.pl]
 
 A valid user with pre-existing portfolios is: will
 The password for that user is: password
