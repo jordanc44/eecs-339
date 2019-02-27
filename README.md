@@ -5,7 +5,7 @@ EECS 339 Databases Lab 2: Portfolio Manager
 
 Storyboard / flowchart 
 
-[ER diagram](master/ER.pdf)
+[ER diagram](ER.pdf)
 
 Relational design
 
