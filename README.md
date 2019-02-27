@@ -7,11 +7,11 @@ Storyboard / flowchart
 
 [ER diagram](ER.pdf)
 
-[Relational design](Relational Diagram & All SQL Queries.pdf)
+[Relational design](Relational_Diagram_&_All_SQL_Queries.pdf)
 
-[SQL DDL](SQL DDL.pdf)
+[SQL DDL](SQL_DDL.pdf)
 
-[SQL DML and DQL](SQL DML.pdf)
+[SQL DML and DQL](SQL_DML.pdf)
 
 Link to application: https://murphy.wot.eecs.northwestern.edu/~jlc229/portfolio/portfolio.pl
 
