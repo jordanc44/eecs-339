@@ -1,1 +1,1 @@
-# eecs-339
+# EECS 339 - Portfolio
