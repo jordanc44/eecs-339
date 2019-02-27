@@ -4,9 +4,13 @@ Will Parsons, Jordan Clark, Kyle Pickard
 EECS 339 Databases Lab 2: Portfolio Manager
 
 Storyboard / flowchart 
-ER diagram
+
+[ER diagram](../blob/master/ER.pdf)
+
 Relational design
+
 SQL DDL
+
 SQL DML and DQL
 
 Link to application: https://murphy.wot.eecs.northwestern.edu/~jlc229/portfolio/portfolio.pl
