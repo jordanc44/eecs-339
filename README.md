@@ -3,15 +3,15 @@
 Will Parsons, Jordan Clark, Kyle Pickard
 EECS 339 Databases Lab 2: Portfolio Manager
 
-Storyboard / flowchart 
+[Storyboard / flowchart](FlowchartPortfolio.pdf) 
 
 [ER diagram](ER.pdf)
 
-[Relational design](Relational_Diagram_&_All_SQL_Queries.pdf)
+[Relational design](Relational%20Diagram%20&%20All%20SQL%20Queries.pdf)
 
-[SQL DDL](SQL_DDL.pdf)
+[SQL DDL](SQL%20DDL.pdf)
 
-[SQL DML and DQL](SQL_DML.pdf)
+[SQL DML and DQL](SQL%20DML.pdf)
 
 Link to application: https://murphy.wot.eecs.northwestern.edu/~jlc229/portfolio/portfolio.pl
 
